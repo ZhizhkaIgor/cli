@@ -20,10 +20,6 @@
     "translation": "Application {{.AppName}} must not be configured with both 'routes' and 'no-hostname'"
   },
   {
-    "id": "Bind a security group to a particular space, or all existing spaces of an org",
-    "translation": "Bind a security group to a particular space, or all existing spaces of an org"
-  },
-  {
     "id": "Failed to create a local temporary zip file for the buildpack",
     "translation": "Failed to create a local temporary zip file for the buildpack"
   },

@@ -164,16 +164,16 @@
     "translation": "INCLUIR/REMOVER PLUG-IN"
   },
   {
-    "id": "ADD/REMOVE PLUGIN:",
-    "translation": "INCLUIR/REMOVER PLUG-IN:"
-  },
-  {
     "id": "ADD/REMOVE PLUGIN REPOSITORY",
     "translation": "INCLUIR/REMOVER REPOSITÓRIO DE PLUG-IN"
   },
   {
     "id": "ADD/REMOVE PLUGIN REPOSITORY:",
     "translation": "INCLUIR/REMOVER REPOSITÓRIO DE PLUG-IN:"
+  },
+  {
+    "id": "ADD/REMOVE PLUGIN:",
+    "translation": "INCLUIR/REMOVER PLUG-IN:"
   },
   {
     "id": "ADVANCED",
@@ -413,7 +413,7 @@
   },
   {
     "id": "Bind a security group to a particular space, or all existing spaces of an org",
-    "translation": "Ligar um grupo de segurança à um espaço, ou todos os espaços existentes em uma organização",
+    "translation": "Ligar um grupo de segurança à um espaço, ou todos os espaços existentes em uma organização"
   },
   {
     "id": "Bind a security group to the list of security groups to be used for running applications",

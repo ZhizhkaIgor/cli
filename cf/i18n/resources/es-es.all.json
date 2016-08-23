@@ -164,16 +164,16 @@
     "translation": "AÑADIR/ELIMINAR PLUGIN"
   },
   {
-    "id": "ADD/REMOVE PLUGIN:",
-    "translation": "AÑADIR/ELIMINAR PLUGIN:"
-  },
-  {
     "id": "ADD/REMOVE PLUGIN REPOSITORY",
     "translation": "AÑADIR/ELIMINAR EL REPOSITORIO DE PLUGINS"
   },
   {
     "id": "ADD/REMOVE PLUGIN REPOSITORY:",
     "translation": "AÑADIR/ELIMINAR EL REPOSITORIO DE PLUGINS:"
+  },
+  {
+    "id": "ADD/REMOVE PLUGIN:",
+    "translation": "AÑADIR/ELIMINAR PLUGIN:"
   },
   {
     "id": "ADVANCED",
@@ -413,7 +413,7 @@
   },
   {
     "id": "Bind a security group to a particular space, or all existing spaces of an org",
-    "translation": ""
+    "translation": "Enlazar un grupo de seguridad a un espacio, o a todos los espacios existentes en una organización"
   },
   {
     "id": "Bind a security group to the list of security groups to be used for running applications",
